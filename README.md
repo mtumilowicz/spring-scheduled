@@ -28,6 +28,6 @@ beneficial for failed jobs as well as reporting purposes.
     ```
 
 * **CronJob** (`CronJob.java`) - `@Component` class with `@Scheduled(cron = "...")` method  
-    possible patterns:
+    possible patterns coverage:
     * https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/scheduling/support/CronSequenceGenerator.html
     * https://www.manpagez.com/man/5/crontab/
